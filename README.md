@@ -68,14 +68,14 @@
 We welcome contributions from the community! Fork the repository, experiment with the tool, and propose new features or improvements via pull requests. Please follow our contribution guidelines in `CONTRIBUTING.md`.
 
 ## 📜 License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **GPL License** – see the [LICENSE](LICENSE) file for details.
 
 ## ©️ Copyright
-© 2024 AI Face Transformer Developers. All rights reserved.
+© 2024 Sabyasachi Kumar. All rights reserved
 
 ## 🙏 Acknowledgements
 We extend our heartfelt thanks to the open-source community and all contributors for their unwavering support and feedback in refining and enhancing this project.
 
 <p align="center">
-  🎉 Happy Swapping! 🎉
+  🎉 Happy Coding! 🎉
 </p>
