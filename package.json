@@ -1,0 +1,17 @@
+{
+  "name": "hackvita-team75",
+  "version": "1.0.0",
+  "description": "A project for hackvita team 75",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Sabyasachi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.5-lts.1",
+    "opencv4nodejs": "^5.6.0"
+  }
+}
