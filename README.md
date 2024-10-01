@@ -1,4 +1,4 @@
-# 🌟 AI Lecture Face Swapper with Celebrity Faces 🌟
+##  AI Face Swapper with Celebrity Faces
 
 <p align="center">
   <img src="https://i.postimg.cc/0jcq84XM/celebrity-gender-swap-faceapp-fb29-png-700.jpg" alt="AI Image Swapper" width="600">
