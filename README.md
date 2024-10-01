@@ -10,11 +10,11 @@
 **AI Lecture Face Swapper** is a versatile, cross-platform application built using Python. It leverages advanced deep learning algorithms to detect, learn, and swap faces in images or videos. Whether you're a developer, hobbyist, or AI enthusiast, this tool provides endless opportunities to explore facial transformations creatively and efficiently.
 
 ## 🌟 Key Features
-- 🕵️ **Face Detection:** Automatically locate and extract faces from input images or video frames with high accuracy.
-- 🧠 **Deep Learning Model Training:** Build a custom model tailored to deliver precise facial transformations.
-- 🔄 **Face Conversion:** Seamlessly swap faces in the target media using advanced AI models.
-- 🖥️ **User-Friendly Interface:** Choose between a command-line interface or a sleek graphical interface for easy operation.
-- 📂 **Batch Processing:** Effortlessly handle multiple images and video frames in one go for large-scale projects.
+-  **Face Detection:** Automatically locate and extract faces from input images or video frames with high accuracy.
+-  **Deep Learning Model Training:** Build a custom model tailored to deliver precise facial transformations.
+-  **Face Conversion:** Seamlessly swap faces in the target media using advanced AI models.
+-  **User-Friendly Interface:** Choose between a command-line interface or a sleek graphical interface for easy operation.
+-  **Batch Processing:** Effortlessly handle multiple images and video frames in one go for large-scale projects.
 
 ## ⚙️ System Requirements
 - An NVIDIA GPU with CUDA support for optimized performance.
